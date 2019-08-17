@@ -1,0 +1,24 @@
+#include <iostream>
+#incude <stdlib.h>
+
+//declarei a função void 
+void linha();
+
+int main(){
+    cout<<"Teste de funcoes! \n";
+
+    //chamei a função void
+    linha();
+
+    cout<<"Subtitulo \n";
+    
+    linha();
+
+    return 0;
+}
+
+
+//função void ela não retorna nada
+void linha(){
+  cout<<"-------------------------\n");
+}

@@ -1,0 +1,15 @@
+O ponteiro armazenar o endereço de uma variavel
+
+|ENDEREÇO|TIPO|VALOR|NOME|
+| 100    |int |  4  |var |
+  102
+  103
+ ...
+ 
+* declara ponteiro
+& operador de endereço
+
+	int *nomePonteiro; //*declara nomePonteiro como nome do ponteiro, tem que ser do mesmo tipo da variavel que vai estar apontando
+        nomePonteiro=&var; //nomePonteiro recebe(=) o endereço(&) de var
+        cout<<nomePonteiro; //irar iprimir somente o endereço na variavel
+        cout<<*nomePonteiro; //irar imprimir o valor da variavel que esta nesse endereço
