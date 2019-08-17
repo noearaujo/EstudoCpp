@@ -1,0 +1,7 @@
+Lista de Valores constantes
+
+Por padrão o enum já vem com valores, sendo que eles são sequencias:
+se o primeiro elemento tem 0, o proximo terar 1 e assim por diante...
+
+Erro:  enum nome();
+Correto: enum nome{};

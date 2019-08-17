@@ -1,0 +1,2 @@
+ Teste de igualdade
+Case é uma constante que vai ser comparada com a expressão

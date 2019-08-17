@@ -1,0 +1,3 @@
+(exclusivo do c++)
+Sobrecarga de funções, tem a possibilidade de ter 2 ou mais funções 
+do mesmo nome dentro do mesmo programa, desde que as funções possuam argumentos de entreda diferentes.

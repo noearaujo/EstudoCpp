@@ -1,0 +1,1 @@
+'/0' ou "/0" ou /0 = seria o flag da tecla ENTER, quuando vc digita e aperta ENTER, no final vc tem o /0

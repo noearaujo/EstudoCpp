@@ -1,0 +1,1 @@
+flag - é uma condição de parada (-1)

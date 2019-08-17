@@ -1,0 +1,12 @@
+No caso eu posso criar funções e chamalas via argumentos
+
+a função strcmd(); da lib <string.h> se as strings informadas forem iguais ele retorna 0, se forem deferentes ele retorna um valor 
+diferente de 0:
+string iguais= retorna 0
+1º string > 2º string= retorna maior que 0
+1º string < 2º string= retorna menor que 0
+
+
+
+abra o cmd D:\C++ estudo\aula 21 - Argumentos para a função main, argc e argv e coloque os argumentos, chamando 
+o nome do progama e colocando os argumentos dentro

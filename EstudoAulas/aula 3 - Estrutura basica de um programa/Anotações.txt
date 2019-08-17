@@ -1,0 +1,1 @@
+namespace - nada é alem de pastas onde sao organizadas as bibliotecas

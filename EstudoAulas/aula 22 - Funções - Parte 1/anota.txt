@@ -1,0 +1,4 @@
+É possivel criar funções acima da função main(), mas isso não é recomendado, pois fica bagunçado quando for revisar.
+Quando for criada qualquer função e no qual ela for chamada, é preciso prototipar ela acima da fução main().
+
+Quando o valor de saida for diferente de void, onos iremos usar o return

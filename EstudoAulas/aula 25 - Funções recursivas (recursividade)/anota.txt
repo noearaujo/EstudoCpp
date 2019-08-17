@@ -1,0 +1,11 @@
+É uma função que chama a se mesma, varias vezes, sendo que tem que ter um controle para encerrar
+essa chamada(pois pode ser ifinita).
+
+
+
+
+
+Na verdade a cada chamada nova da função, você aloca memória para cada variável que a função usar. 
+Diferente do "for" que utiliza as mesmas variáveis para operar sobre elas mesmas.De forma 
+geral para fins de processamento, o for é sim mais indicado, e a recursividade só é vantagem em 
+procedimentos específicos.

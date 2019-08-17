@@ -1,0 +1,27 @@
+Operador ternario é um if mais simplificado
+
+? - se for verdadeira
+: senão
+
+(condição) ? valor :  valor2;
+
+<variavel> = (condição) ? valor :  valor2;
+exemplo: int num = (true) ? 20 : 10;
+
+
+Swicht adaptavel ao ternario:
+
+	String mes = (num==1)?"Janeiro":
+		     (num==2)?"Fevereiro":
+		     (num==3)?"Março":
+		     (num==4)?"Abril": 
+                     (num==5)?"Maio":
+                     (num==6)?"Junho":
+		     (num==7)?"Julho":
+		     (num==8)?"Agosto":
+		     (num==9)?"Setembro":
+		     (num==10)?"Outubro": 
+                     (num==11)?"Novembro":
+                     (num==12)?"Desembro":
+			      "O valor igitado não corresponde o mês do ano";
+ 
